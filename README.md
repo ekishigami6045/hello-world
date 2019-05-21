@@ -1,3 +1,3 @@
 # hello-world
-漫画でわかるGit 7・8話実践用
+漫画でわかるGit 7and8話実践用
 
